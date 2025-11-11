@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "177059662755",
+    "project_id": "chatdevmobile",
+    "storage_bucket": "chatdevmobile.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:177059662755:android:57431761c3dfdafcebe816",
+        "android_client_info": {
+          "package_name": "br.edu.utfpr.cc.setac.kt.talk"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMPb90Vy3tT2Lb2uUXxrdL6LniGj0NqRA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
